@@ -13,7 +13,7 @@
   <code><a href="https://priyansh-kedia.medium.com/" title="Medium Profile"><img width="22" src="https://github.com/Priyansh-Kedia/Priyansh-Kedia/blob/master/images/medium.svg"> Medium</a></code>
 </h5>
 <br>
-<p align="center">
+<p align="start">
   Hi, I'm Priyansh Kedia, Software Developer and AI Engineer.
   <br>
   <br>
