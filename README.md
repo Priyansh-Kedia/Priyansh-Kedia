@@ -37,7 +37,7 @@
   <code><img title="JSON" height="25" src="https://github.com/Priyansh-Kedia/Priyansh-Kedia/blob/master/images/json.svg"></code>
   <code><img title="Android" height="25" src="https://github.com/Priyansh-Kedia/Priyansh-Kedia/blob/master/images/android.svg"></code>
   <code><img title="Kotlin" height="25" src="https://github.com/Priyansh-Kedia/Priyansh-Kedia/blob/master/images/kotlin.svg"></code>
-  <code><img title="Keras" height="25" src="https://github.com/Priyansh-Kedia/Priyansh-Kedia/blob/master/images/keras.svg"></code>
+  <code><img title="Keras" height="25" src="https://github.com/Priyansh-Kedia/Priyansh-Kedia/blob/master/images/keras.png"></code>
 </p>
 <hr>
 
