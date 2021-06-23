@@ -21,7 +21,7 @@
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  📚 I’m currently working with AI team at (Cognomen)[https://cognomen.net/]
+  📚 I’m currently working with AI team at [Cognomen](https://cognomen.net)
   <br>
   📫 How to reach me: <a href="mailto: kediapriyansh@gmail.com">kediapriyansh@gmail.com</a>
 </p>
