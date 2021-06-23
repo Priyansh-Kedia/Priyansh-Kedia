@@ -23,7 +23,7 @@
   <br>
   📚 I’m currently working with AI team at <span><a href="https://cognomen.net" target="_blank">Cognomen</a></span>
   <br>
-  <img src="https://img.icons8.com/nolan/64/open-resume.png"/>Find my resume <span><a href="https://github.com/Priyansh-Kedia/Priyansh-Kedia/raw/master/Resume.pdf">here</span>
+  Find my resume <span><a href="https://github.com/Priyansh-Kedia/Priyansh-Kedia/raw/master/Resume.pdf"></a>here</span>
   <br>
   📫 How to reach me: <a href="mailto: kediapriyansh@gmail.com">kediapriyansh@gmail.com</a>
 </p>
