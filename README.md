@@ -8,8 +8,8 @@
 
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/priyansh-kedia-123792197/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://stackoverflow.com/users/13165317/priyansh-kedia" title="Stack Overflow Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/stackoverflow.svg"> Stack Overflow</a></code>
+    <a href="https://www.linkedin.com/in/priyansh-kedia-123792197/" title="LinkedIn Profile"><img width="22" src="https://github.com/Priyansh-Kedia/Priyansh-Kedia/blob/master/images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://stackoverflow.com/users/13165317/priyansh-kedia" title="Stack Overflow Profile"><img width="22" src="https://github.com/Priyansh-Kedia/Priyansh-Kedia/blob/master/images/stackoverflow.svg"> Stack Overflow</a></code>
 </h5>
 <br>
 <p align="center">
@@ -27,15 +27,15 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="Python" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python-original.svg"></code>
-  <code><img title="Django" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/django.png"></code>
-  <code><img title="Javascript" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/problemSolving.png"></code>
-  <code><img title="Git" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/git-original.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/vscode.png"></code>
-  <code><img title="Java" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/java-original.svg"></code>
-  <code><img title="JSON" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/json.svg"></code>
-  <code><img title="Android" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/android.svg"></code>
+  <code><img title="Python" height="25" src="https://github.com/Priyansh-Kedia/Priyansh-Kedia/blob/master/images/python-original.svg"></code>
+  <code><img title="Django" height="25" src="https://github.com/Priyansh-Kedia/Priyansh-Kedia/blob/master/images/django.png"></code>
+  <code><img title="Javascript" height="25" src="https://github.com/Priyansh-Kedia/Priyansh-Kedia/blob/master/images/javascript.svg"></code>
+  <code><img title="Problem Solving" height="25" src="https://github.com/Priyansh-Kedia/Priyansh-Kedia/blob/master/images/problemSolving.png"></code>
+  <code><img title="Git" height="25" src="https://github.com/Priyansh-Kedia/Priyansh-Kedia/blob/master/images/git-original.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="https://github.com/Priyansh-Kedia/Priyansh-Kedia/blob/master/images/vscode.png"></code>
+  <code><img title="Java" height="25" src="https://github.com/Priyansh-Kedia/Priyansh-Kedia/blob/master/images/java-original.svg"></code>
+  <code><img title="JSON" height="25" src="https://github.com/Priyansh-Kedia/Priyansh-Kedia/blob/master/images/json.svg"></code>
+  <code><img title="Android" height="25" src="https://github.com/Priyansh-Kedia/Priyansh-Kedia/blob/master/images/android.svg"></code>
 </p>
 <hr>
 
@@ -89,7 +89,7 @@
 
 
 <!--
-**zumrudu-anka/zumrudu-anka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Priyansh-Kedia/Priyansh-Kedia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
