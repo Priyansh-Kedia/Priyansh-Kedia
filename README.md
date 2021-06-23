@@ -10,7 +10,7 @@
   <code>
     <a href="https://www.linkedin.com/in/priyansh-kedia-123792197/" title="LinkedIn Profile"><img width="22" src="https://github.com/Priyansh-Kedia/Priyansh-Kedia/blob/master/images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://stackoverflow.com/users/13165317/priyansh-kedia" title="Stack Overflow Profile"><img width="22" src="https://github.com/Priyansh-Kedia/Priyansh-Kedia/blob/master/images/stackoverflow.svg"> Stack Overflow</a></code>
-  <code><a href="https://priyansh-kedia.medium.com/" title="Medium Profile"><img width="22" src="https://github.com/Priyansh-Kedia/Priyansh-Kedia/blob/master/images/medium.svg"> Stack Overflow</a></code>
+  <code><a href="https://priyansh-kedia.medium.com/" title="Medium Profile"><img width="22" src="https://github.com/Priyansh-Kedia/Priyansh-Kedia/blob/master/images/medium.svg"> Medium</a></code>
 </h5>
 <br>
 <p align="center">
