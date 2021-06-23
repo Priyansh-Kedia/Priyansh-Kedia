@@ -67,9 +67,9 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=Priyansh-Kedia&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
-<hr>
+<!-- <hr> -->
 
 
 
-![Metrics](https://metrics.lecoq.io/Priyansh-Kedia?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Europe%2FIstanbul)
+![Metrics](https://metrics.lecoq.io/Priyansh-Kedia?template=terminal&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Kolkata%2FIstanbul)
 
