@@ -13,7 +13,7 @@
   <code><a href="https://priyansh-kedia.medium.com/" title="Medium Profile"><img width="22" src="https://github.com/Priyansh-Kedia/Priyansh-Kedia/blob/master/images/medium.svg"> Medium</a></code>
 </h5>
 <br>
-<p align="start">
+<p align="center">
   Hi, I'm Priyansh Kedia, Software Developer and AI Engineer.
   <br>
   <br>
@@ -23,7 +23,7 @@
   <br>
   📚 I’m currently working with AI team at <span><a href="https://cognomen.net" target="_blank">Cognomen</a></span>
   <br>
-  Find my resume <span><a href="https://github.com/Priyansh-Kedia/Priyansh-Kedia/raw/master/Resume.pdf"></a>here</span>
+  📚 Find my resume <span><a href="https://github.com/Priyansh-Kedia/Priyansh-Kedia/raw/master/Resume.pdf">here</a></span>
   <br>
   📫 How to reach me: <a href="mailto: kediapriyansh@gmail.com">kediapriyansh@gmail.com</a>
 </p>
