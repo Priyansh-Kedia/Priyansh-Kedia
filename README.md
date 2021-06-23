@@ -38,6 +38,7 @@
   <code><img title="Android" height="25" src="https://github.com/Priyansh-Kedia/Priyansh-Kedia/blob/master/images/android.svg"></code>
   <code><img title="Kotlin" height="25" src="https://github.com/Priyansh-Kedia/Priyansh-Kedia/blob/master/images/kotlin.svg"></code>
   <code><img title="Keras" height="25" src="https://github.com/Priyansh-Kedia/Priyansh-Kedia/blob/master/images/keras.png"></code>
+  <code><img title="PyTorch" height="25" src="https://github.com/Priyansh-Kedia/Priyansh-Kedia/blob/master/images/pytorch.svg"></code>
 </p>
 <hr>
 
