@@ -25,7 +25,7 @@
   <br>
   📚 Find my resume <span><a href="https://github.com/Priyansh-Kedia/Priyansh-Kedia/raw/master/Resume.pdf">here</a></span>
   <br>
-  📫 How to reach me: <a href="mailto: kediapriyansh@gmail.com">kediapriyansh@gmail.com</a>
+  📫 Reach me at: <a href="mailto: kediapriyansh@gmail.com">kediapriyansh@gmail.com</a>
 </p>
 
 <hr>
