@@ -19,7 +19,7 @@
   <br>
   🔬 I'm currently pursuing bachelors from BITS Pilani, India
   <br>
-  💻 I love writing code and learn anythings about it
+  💻 I love writing code and learn anything about it
   <br>
   📚 I was a part of the AI team at <span><a href="https://cognomen.net" target="_blank">Cognomen</a></span>
   <br>
