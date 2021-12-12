@@ -47,8 +47,6 @@
   <code><img title="Jira" height="25" src="https://github.com/Priyansh-Kedia/Priyansh-Kedia/blob/master/images/jira.svg"></code>
 </p>
 <hr>
-[![Priyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyansh-Kedia)](https://github.com/anuraghazra/github-readme-stats)
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
@@ -77,6 +75,7 @@
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
+[![Priyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyansh-Kedia)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ![Metrics](https://metrics.lecoq.io/Priyansh-Kedia?template=classic&base.metadata=0&notable=1&gists=1&notable.repositories=false&config.timezone=Asia%2FCalcutta) -->
 
