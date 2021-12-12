@@ -47,13 +47,12 @@
   <code><img title="Jira" height="25" src="https://github.com/Priyansh-Kedia/Priyansh-Kedia/blob/master/images/jira.svg"></code>
 </p>
 <hr>
+[![Priyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyansh-Kedia)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
   <div align=center>
-          [![Priyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyansh-Kedia)](https://github.com/anuraghazra/github-readme-stats)
-
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=Priyansh-Kedia&theme=react&border=61dafb&hide_border=true" alt="Priyansh-Kedia" />
     </a>
