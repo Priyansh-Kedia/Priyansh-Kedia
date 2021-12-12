@@ -78,5 +78,6 @@ No Activity tracked this Week
 <!--END_SECTION:waka-->
 
 <!-- ![Metrics](https://metrics.lecoq.io/Priyansh-Kedia?template=classic&base.metadata=0&notable=1&gists=1&notable.repositories=false&config.timezone=Asia%2FCalcutta) -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
