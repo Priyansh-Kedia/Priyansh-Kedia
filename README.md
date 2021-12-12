@@ -75,7 +75,7 @@
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
-[![Priyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyansh-Kedia)](https://github.com/anuraghazra/github-readme-stats)
+[![Priyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyansh-Kedia&count_private=true&include_all_commits=true&show_icons=true&theme=react&border_color=61dafb&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ![Metrics](https://metrics.lecoq.io/Priyansh-Kedia?template=classic&base.metadata=0&notable=1&gists=1&notable.repositories=false&config.timezone=Asia%2FCalcutta) -->
 
