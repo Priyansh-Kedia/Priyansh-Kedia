@@ -76,6 +76,6 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
-<!-- ![Metrics](https://metrics.lecoq.io/Priyansh-Kedia?template=classic&base.metadata=0&notable=1&gists=1&notable.repositories=false&config.timezone=Asia%2FCalcutta) -->
+![Metrics](https://metrics.lecoq.io/Priyansh-Kedia?template=classic&base.metadata=0&notable=1&gists=1&notable.repositories=false&config.timezone=Asia%2FCalcutta) 
 
 
