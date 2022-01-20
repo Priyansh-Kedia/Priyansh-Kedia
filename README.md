@@ -54,6 +54,7 @@
 <!--     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=Priyansh-Kedia&theme=react&border=61dafb" alt="Priyansh-Kedia" />
     </a> -->
+    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Priyansh-Kedia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=Priyansh-Kedia&count_private=true&include_all_commits=true&show_icons=true&theme=react&border_color=61dafb" />
     </a>
