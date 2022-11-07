@@ -23,7 +23,7 @@
   <br>
   📚 I was a part of the AI team at <span><a href="https://cognomen.net" target="_blank">Cognomen</a></span>
   <br>
-  📚 Find my resume <span><a href="https://github.com/Priyansh-Kedia/Priyansh-Kedia/raw/master/Resume.pdf">here</a></span>
+  📚 Find my resume <span><a href="https://drive.google.com/file/d/1x2wQ1VqfI0RjtsdFYzjWS5w6kcauoZ0s/view?usp=drivesdk">here</a></span>
   <br>
   📫 Reach me at: <a href="mailto: kediapriyansh@gmail.com">kediapriyansh@gmail.com</a>
 </p>
