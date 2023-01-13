@@ -65,7 +65,7 @@
     </a>
   </div>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=Priyansh-Kedia&theme=react-dark&bg_color=20232a" width="100%"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Priyansh-Kedia&theme=react-dark&bg_color=20232a" width="100%"/>
 </p>
 
 <!-- <hr> -->
